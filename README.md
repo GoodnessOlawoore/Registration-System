@@ -1,0 +1,2 @@
+# Registration-System
+CSC 208 (WEB DEVELOPMENT) CLASS TASK  Question :  Create a database containing a table that stores the matric number of all students in a group, name, sex, email, and address. A form should be created in PHP that allows students to log in with their name and password.  The database should contain students full information as stored in the first database table discussed.  Invalid users should be redirected to a registration page or given a message that says you cannot access this system. 
